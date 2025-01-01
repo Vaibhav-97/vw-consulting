@@ -1,5 +1,3 @@
-# vw-consulting
-vw-consulting
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,4 +111,3 @@ vw-consulting
     </footer>
 </body>
 </html>
-
